@@ -1,0 +1,11 @@
+.banner-image img {
+  position: relative;
+
+}
+
+.text {
+  position: absolute;
+  top: 30%;
+  left: 30%;
+  transform: translateY(-50%, -50%);
+}
